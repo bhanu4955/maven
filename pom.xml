@@ -20,8 +20,8 @@
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
  <properties> 
-         <maven.compiler.source>14</maven.compiler.source> 
-         <maven.compiler.target>14</maven.compiler.target>
+         <maven.compiler.source>16</maven.compiler.source> 
+         <maven.compiler.target>16</maven.compiler.target>
 </properties>
   <modules>
     <module>server</module>
